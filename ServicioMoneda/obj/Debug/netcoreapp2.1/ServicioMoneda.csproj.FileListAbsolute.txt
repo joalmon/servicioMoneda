@@ -1,0 +1,14 @@
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\bin\Debug\netcoreapp2.1\ServicioMoneda.deps.json
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\bin\Debug\netcoreapp2.1\ServicioMoneda.runtimeconfig.json
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\bin\Debug\netcoreapp2.1\ServicioMoneda.runtimeconfig.dev.json
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\bin\Debug\netcoreapp2.1\ServicioMoneda.dll
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\bin\Debug\netcoreapp2.1\ServicioMoneda.pdb
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.csprojAssemblyReference.cache
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.csproj.CoreCompileInputs.cache
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.RazorAssemblyInfo.cache
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.RazorAssemblyInfo.cs
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.AssemblyInfoInputs.cache
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.AssemblyInfo.cs
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.RazorTargetAssemblyInfo.cache
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.dll
+C:\Users\MASTERM645\source\repos\ServicioMoneda\ServicioMoneda\obj\Debug\netcoreapp2.1\ServicioMoneda.pdb

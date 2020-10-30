@@ -1,0 +1,4 @@
+El proyecto realiza las funcionalidades planteadas usando .NET framework core y Entity framework, se implementó además un log que registra posibles excepciones generadas.
+La versión de BD que se usó fue SQL Server 2005.
+
+Se usaron también las librerías que están en una imagen llamada "complementos.PNG"
